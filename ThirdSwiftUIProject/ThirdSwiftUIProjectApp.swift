@@ -11,7 +11,7 @@ import SwiftUI
 struct ThirdSwiftUIProjectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            UserListView()
         }
     }
 }
