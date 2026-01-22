@@ -16,7 +16,7 @@ final class APIService :APIServiceProtocol{
     }
     
     func fetchUsers() async throws -> [User] {
-        let url = URL(string: "https://jsonplaceholder.typicode.com/users")!
+        let url = URL(string: APIConstants.users)!
         let data = try await client.data(from: url)
         return try JSONDecoder().decode([User].self,from: data)
     }
