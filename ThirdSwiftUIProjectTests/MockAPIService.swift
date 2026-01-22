@@ -1,9 +1,3 @@
-//
-//  MockAPIService.swift
-//  ThirdSwiftUIProjectTests
-//
-//  Created by Abhijeet Kothavale on 17/01/26.
-//
 
 @testable import ThirdSwiftUIProject
 import Foundation

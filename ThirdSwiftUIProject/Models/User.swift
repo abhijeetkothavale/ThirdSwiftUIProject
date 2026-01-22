@@ -1,9 +1,3 @@
-//
-//  File.swift
-//  ThirdSwiftUIProject
-//
-//  Created by Abhijeet Kothavale on 17/01/26.
-//
 
 import Foundation
 

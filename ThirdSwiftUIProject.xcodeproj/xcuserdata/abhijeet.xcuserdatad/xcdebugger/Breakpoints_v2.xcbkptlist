@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CFD0B8B8-E016-4488-9410-99A2F1A9750F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71C586EC-764B-4DEE-B88A-4CC31EA0FE3A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdSwiftUIProjectTests/APIServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "test_fetchUsers_success()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10072E67-47C8-44A2-BD8A-A2AB8E30DAF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdSwiftUIProject/Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "10072E67-47C8-44A2-BD8A-A2AB8E30DAF8 - 72e9fcdb2bcae524"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ThirdSwiftUIProject.APIService.fetchUsers() async throws -&gt; Swift.Array&lt;ThirdSwiftUIProject.User&gt;"
+                  moduleName = "ThirdSwiftUIProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhijeet/Desktop/Practice/ThirdSwiftUIProject/ThirdSwiftUIProject/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  uuid = "10072E67-47C8-44A2-BD8A-A2AB8E30DAF8 - 4c91cea180ec9307"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ThirdSwiftUIProject.APIService.fetchUsers() async throws -&gt; Swift.Array&lt;ThirdSwiftUIProject.User&gt;"
+                  moduleName = "ThirdSwiftUIProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhijeet/Desktop/Practice/ThirdSwiftUIProject/ThirdSwiftUIProject/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "82">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "216B14BF-7EF0-4E46-9842-75EF2C18083F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdSwiftUIProject/Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "216B14BF-7EF0-4E46-9842-75EF2C18083F - 4c91cea180ec9345"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ThirdSwiftUIProject.APIService.fetchUsers() async throws -&gt; Swift.Array&lt;ThirdSwiftUIProject.User&gt;"
+                  moduleName = "ThirdSwiftUIProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhijeet/Desktop/Practice/ThirdSwiftUIProject/ThirdSwiftUIProject/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "216B14BF-7EF0-4E46-9842-75EF2C18083F - 6d2f40335cdc3ac1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for ThirdSwiftUIProject.APIService.fetchUsers() async throws -&gt; Swift.Array&lt;ThirdSwiftUIProject.User&gt;"
+                  moduleName = "ThirdSwiftUIProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhijeet/Desktop/Practice/ThirdSwiftUIProject/ThirdSwiftUIProject/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "216B14BF-7EF0-4E46-9842-75EF2C18083F - 7533e2e5059ef348"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ThirdSwiftUIProject.APIService.fetchUsers() async throws -&gt; Swift.Array&lt;ThirdSwiftUIProject.User&gt;"
+                  moduleName = "ThirdSwiftUIProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhijeet/Desktop/Practice/ThirdSwiftUIProject/ThirdSwiftUIProject/Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "63">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1CBB8FF-91E0-419F-8864-0209F1BC5CEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdSwiftUIProjectTests/APIServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "test_fetchUsers_success()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
